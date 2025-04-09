@@ -1,0 +1,3 @@
+C:/Users/Roman/Desktop/my_optional/cmake-build-release/CMakeFiles/my_optional.dir
+C:/Users/Roman/Desktop/my_optional/cmake-build-release/CMakeFiles/edit_cache.dir
+C:/Users/Roman/Desktop/my_optional/cmake-build-release/CMakeFiles/rebuild_cache.dir

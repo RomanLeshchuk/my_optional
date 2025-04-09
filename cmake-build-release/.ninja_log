@@ -1,0 +1,8 @@
+# ninja log v6
+1010	1062	7659436468772591	my_optional.exe	1e69e73fcca6048c
+2	1009	7659436458707601	CMakeFiles/my_optional.dir/main.cpp.obj	d0a5c0ac23407d69
+2	179	7659438321944255	build.ninja	7f52bde92363f8ab
+2	1020	7659438684618248	CMakeFiles/my_optional.dir/main.cpp.obj	d0a5c0ac23407d69
+1020	1074	7659438694791022	my_optional.exe	1e69e73fcca6048c
+3	996	7659439966003867	CMakeFiles/my_optional.dir/main.cpp.obj	d0a5c0ac23407d69
+996	1051	7659439975941933	my_optional.exe	1e69e73fcca6048c
